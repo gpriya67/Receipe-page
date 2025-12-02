@@ -5,7 +5,7 @@ This is my solution to the Recipe Page challenge from Frontend Mentor
 Frontend Mentor challenges help improve your frontend skills by building real-world UI components and layouts.
 
 📸 Preview
-
+![Image](https://github.com/user-attachments/assets/4ad3f948-f5e1-48af-851c-e54996d1c576)
 (Replace this with your screenshot)
 🚀 The Challenge
 
